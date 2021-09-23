@@ -1,0 +1,4 @@
+88020:Maria Aguiar:EIB2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:50:500:0
+88110:Vasco Rapido:IB2:962222222:vrapid@gmail.com:mota:bmw:33-MT-99:50:500:0
+88021:Toto Africa:EIB2:911555443:tafrica@gmail.com:carro:lamborghini:99-ZZ-99:50:500:0
+88022:Henrique Metas:EIB2:9121321312:metas@gmail.com:mota:honda:99-ZT-88:50:500:0

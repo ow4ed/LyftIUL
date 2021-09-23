@@ -1,0 +1,35 @@
+#!/bin/bash
+echo "1. Cria condutor"
+echo "2. Cria passageiros"
+echo "3. Lista negra"
+echo "4. Atualiza condutores"
+echo "5. Stats"
+echo "6. Sair"
+read resposta
+case $resposta in 
+	1) echo "numero?"	
+		read numero
+	   echo "nome?"
+		read nome
+	   echo "curso?"
+		read curso
+	   echo "número de telemóvel?"
+		read numtel
+	   echo "email?"
+		read email
+	   echo "tipo de veiculo?"
+	    read veiculo
+	   echo "marca?"
+		read marca
+	   echo "matrícula?"
+		read matricula
+		./cria_condutor.sh $numero "$nome" $curso $numtel $email $veiculo $marca $matricula ;;
+	2) ./cria_passageiros.sh ;;
+	3) ./lista_negra.sh	 ;;
+	4) ./atualiza_condutores.sh ;;
+	5) ./stats.sh;;
+esac
+echo
+if [ $resposta -lt 6 ]; then
+	./menu
+fi

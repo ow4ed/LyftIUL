@@ -1,0 +1,4 @@
+88020:Maria Aguiar:EIB2:911555444:mguiar@gmail.com:carro:mercedes:88-TX-11:2:14:8.0
+88021:Vasco Rapido:IB2:962222222:vrapid@gmail.com:mota:BMW:33-MT-99:0:0:0
+88013:Bruno Silva:IB1:964333111:bsilva@gmail.com:mota:mercedes:11-TR-34:0:0:0
+88030:Joana Bolota:EIB2:964444444:jbolo@gmail.com:carro:fiat:RR-00-13:0:0:0
